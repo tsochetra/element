@@ -107,10 +107,10 @@ export default {
       hasCheckedFormat: '{checked}/{total} បានគូសធីក'
     },
     image: {
-      error: 'FAILED' // to be translated
+      error: 'គាំង'
     },
     pageHeader: {
-      title: 'Back' // to be translated
+      title: 'ថយ'
     }
   }
 };
